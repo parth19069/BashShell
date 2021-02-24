@@ -1,0 +1,10 @@
+linkpwd: pwd [-P]
+    Print the name of the current working directory.
+    
+    Options:
+      -P	print the physical directory, without any symbolic links
+    
+    
+    Exit Status:
+    Returns 0 unless an invalid option is given or the current directory
+    cannot be read.

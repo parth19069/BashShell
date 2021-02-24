@@ -1,0 +1,13 @@
+exit
+exit
+exit
+exit
+exit
+ls -l
+exit
+history
+history
+ls
+ls -l
+date
+exit
